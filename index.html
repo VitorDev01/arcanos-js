@@ -71,7 +71,7 @@
       
       ' <img src="sol.jpg">',
       
-      '<img src="torre22.jpg">',
+      '<img src="torre23.jpg">',
       
       '<img src="mago.jpg">', 
       
